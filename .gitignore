@@ -1,0 +1,7 @@
+db.properties
+bin/
+.settings/
+.project
+.classpath
+.DS_Store
+Thumbs.db
